@@ -1,7 +1,5 @@
 
-
 #include <iostream>
-#include "main.h"
 using namespace std;
 
 int main()
@@ -9,7 +7,7 @@ int main()
     double code;
     std::cout << "Numéro d'utilisateur :\n";
     std::cin >> code;
-    if (code = 007)
+    if (code = 006)
     {
         std::cout << "Accès autorisé";
     }
